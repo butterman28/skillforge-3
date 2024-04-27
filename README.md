@@ -31,9 +31,7 @@ Setup
     python3 -m venv env
     ```
 
-```bash
-pip install -r requirements.txt
-```
+
 4. Activate the virtual environment:
 
     ```bash
