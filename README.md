@@ -61,6 +61,3 @@ python manage.py runserver
 ```
 
 The API will be available at `http://localhost:8000/`.
-
-
-Feel free to customize this README file to fit the specifics of your project. Include any additional information or instructions that may be relevant.
