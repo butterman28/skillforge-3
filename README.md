@@ -1,5 +1,6 @@
 
-assignment 1 and 2 is skillforge 1-2
+assignment 1 and 2 is skillforge 1&2
+
 Django Blog API
 
 This is a Django project that provides a RESTful API for a simple blogging platform. Users can create, read, update, and delete blog posts, as well as comment on posts. Additionally, the project includes search functionality to allow users to search for specific blog posts based on categories.
