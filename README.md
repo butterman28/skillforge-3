@@ -1,5 +1,5 @@
 
-
+assignment 1 and 2 is skillforge 1-2
 Django Blog API
 
 This is a Django project that provides a RESTful API for a simple blogging platform. Users can create, read, update, and delete blog posts, as well as comment on posts. Additionally, the project includes search functionality to allow users to search for specific blog posts based on categories.
@@ -60,4 +60,6 @@ To start the Django development server, run:
 python manage.py runserver
 ```
 
-The API will be available at `http://localhost:8000/`.
+The API will be available at  `http://localhost:8000/` using swagger.
+The API doc will be available at `http://127.0.0.1:8000/redoc`.
+
