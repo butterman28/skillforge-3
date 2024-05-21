@@ -1,4 +1,5 @@
 
+assignment 1 and 2 is skillforge 1&2
 
 Django Blog API
 
@@ -60,4 +61,6 @@ To start the Django development server, run:
 python manage.py runserver
 ```
 
-The API will be available at `http://localhost:8000/`.
+The API will be available at  `http://localhost:8000/` using swagger.
+The API doc will be available at `http://127.0.0.1:8000/redoc`.
+
